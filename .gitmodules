@@ -1,0 +1,3 @@
+[submodule "mimedecode"]
+	path = mimedecode
+	url = https://github.com/phdru/mimedecode
